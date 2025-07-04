@@ -1,4 +1,1 @@
-Lauane Morais, 18 anos
-<br> Estudante
-
-
+Estudante de Sistemas de Informação - <strong>UFS</strong>
