@@ -6,7 +6,7 @@ Sou uma desenvolvedora júnior em formação, cursando Sistemas de Informação 
 
 🎓 **Graduanda em Sistemas de Informação** - Universidade Federal de Sergipe (UFS)
 
-👩‍💻 **Membra Efetiva** - Liga Acadêmica de Desenvolvimento Web (LAWD)
+👩‍💻 **Vice-Presidente** - Liga Acadêmica de Desenvolvimento Web (LAWD)
 
 ---
 
