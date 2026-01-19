@@ -1,4 +1,4 @@
-# Olá, me chamo Lauane! 👋
+# Olá Mundo, eu me chamo Lauane! 👋
 
 Sou uma desenvolvedora júnior em formação, cursando Sistemas de Informação na UFS. Tenho um grande interesse em criar interfaces interativas e busco ativamente aplicar e expandir minhas habilidades em desenvolvimento, principalmente na área de Front-End Web.
 
