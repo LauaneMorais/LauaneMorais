@@ -23,8 +23,6 @@ Sou uma desenvolvedora júnior em formação, cursando Sistemas de Informação 
 ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LauaneMorais&layout=compact&theme=tokyonight)
-
 ---
 
 ### 📫 Contato
