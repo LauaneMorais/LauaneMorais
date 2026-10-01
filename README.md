@@ -1,13 +1,13 @@
 # Olá Mundo, eu me chamo Lauane! <img src="https://github.com/user-attachments/assets/a89d437e-f13c-4226-b5de-56a126ed1cff" width="150">
 
 
-Sou uma desenvolvedora júnior em formação, cursando Sistemas de Informação na UFS. Tenho um grande interesse em criar interfaces interativas e busco ativamente aplicar e expandir minhas habilidades em desenvolvimento, principalmente na área de Front-End Web.
+Sou uma desenvolvedora júnior em formação, cursando Sistemas de Informação na UFS. Tenho um grande interesse em criar interfaces interativas e busco ativamente aplicar e expandir minhas habilidades em desenvolvimento, principalmente na área de Front-End Web e Bioinformática.
 
 ---
 
 🎓 **Graduanda em Sistemas de Informação** - Universidade Federal de Sergipe (UFS)
 
-👩‍💻 **Vice-Presidente** - Liga Acadêmica de Desenvolvimento Web (LAWD)
+👩‍💻 **Presidente** - Liga Acadêmica de Desenvolvimento Web (LAWD)
 
 ---
 
